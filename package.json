@@ -1,6 +1,6 @@
 {
   "name": "@fyears/tsqueue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "implement queue and stack",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
